@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+program in Python to transpose a 2D matrix
 
 # In[16]:
 
